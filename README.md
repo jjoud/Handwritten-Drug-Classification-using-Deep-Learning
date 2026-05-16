@@ -77,14 +77,3 @@ Deep residual transfer learning architecture with the best overall performance.
 | EfficientNetB0 | 69.62% |
 | ResNet50 | 77.44% |
 
----
-
-## Project Structure
-
-```bash
-dataset/
-models/
-results/
-train_model.ipynb
-README.md
-requirements.txt
